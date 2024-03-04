@@ -1,4 +1,17 @@
 1. Arvind Krishna
+<<<<<<< HEAD
+=======
+7. Daniel Xu
+10. Adi Madhu
+13. Jimmy Zhang
+58. David Wu
+5. Hayden Sterling
+35. Allen You
+40. Aidan Boleyn-Fitzgerald
+54. Megan Lin
+61. Kay Alao
+63. Mark O'Brien
+>>>>>>> parent of 19e0524 (Merge branch 'main' of https://github.com/arvindkrishna87/STAT201_WI2024)
 6. Chester Wonchoba
 13. Jimmy Zhang
 
@@ -13,6 +26,11 @@
 
 67. Callie Berthold
 63. Mark O'Brien
+<<<<<<< HEAD
 
 
 23. Giulia Cigolot
+=======
+68. Lexi Stott
+21. Irene Martinez
+>>>>>>> parent of 19e0524 (Merge branch 'main' of https://github.com/arvindkrishna87/STAT201_WI2024)
