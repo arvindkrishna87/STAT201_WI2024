@@ -6,26 +6,14 @@
 14. Annabel Pothuru
 150. Last person
 
+fb89a58872a79c0d995fbf39169726fab76bc2a4
 7. Daniel Xu
 10. Adi Madhu
 13. Jimmy Zhang
 58. David Wu
 5. Hayden Sterling
-27. Gracie Kwon
 35. Allen You
 40. Aidan Boleyn-Fitzgerald
-60. Kadence Chang
-
-
-54. Megan Lin
-
-30. Charles Frady
-
-150. Last person
-
-46. Emma Akinde
-
-
 54. Megan Lin
 61. Kay Alao
 63. Mark O'Brien
@@ -34,17 +22,40 @@
 23563717867133d24a8feeffb12cb1e163b44d2a
 8bd646b5f8f287f93fcdc3aed8db6a8bb08c4c71
 6. Chester Wonchoba
+12. Alexander Lueras
 13. Jimmy Zhang
-34. Jacob Siegel
 40. Aidan Boleyn-Fitzgerald
+51. Jessica Chen
 54. Megan Lin
 59. Shreya Saini
 150. Last person
 46. Emma Akinde
-
+42. Jillian Moore
+67. Callie Berthold
+68. Lexi Stott
+25. Jack McNiel
+63. Mark O'Brien
+65. Ashley Xue
+66. Mia El-Yafi 
+85. Mengpang Xing
+69. Lillian Valk
+69. Lillian Valk
+25. Jack McNiel
+67. Callie Berthold
+63. Mark O'Brien
+49. Hye-won Yoo
+68. Lexi Stott
+88. Sammy Krimstein
+68. Lexi Stott
+86. Dallas Thurman
+68. Lexi Stott
+36. Kenneth Cao
+23. Giulia Cigolot
 
 
 64. Chiemela Onuoha
+38. Jenna Jazayerli
+39. Ingrid Kai Yi Yeung
 
 42. Jillian Moore
 69. Lillian Valk
@@ -67,3 +78,6 @@ c9cf2f22208dfe353e7d5d670475081991436edb
 23563717867133d24a8feeffb12cb1e163b44d2a
 23. Giulia Cigolot
  8bd646b5f8f287f93fcdc3aed8db6a8bb08c4c71
+23. Giulia Cigolot
+
+fb89a58872a79c0d995fbf39169726fab76bc2a4
