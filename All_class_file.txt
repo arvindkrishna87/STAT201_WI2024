@@ -1,8 +1,9 @@
 1. Arvind Krishna
-7. Daniel Xu
+6. Chester Wonchoba
 13. Jimmy Zhang
-34. Jacob Siegel
+
 40. Aidan Boleyn-Fitzgerald
+51. Jessica Chen
 54. Megan Lin
 150. Last person
 46. Emma Akinde
@@ -10,11 +11,13 @@
 67. Callie Berthold
 68. Lexi Stott
 25. Jack McNiel
-<<<<<<< Updated upstream
 63. Mark O'Brien
-=======
+65. Ashley Xue
+85. Mengpang Xing
+69. Lillian Valk
+69. Lillian Valk
+25. Jack McNiel
 
-64. Chiemela Onuoha
-
-20. Angela Lee
->>>>>>> Stashed changes
+67. Callie Berthold
+63. Mark O'Brien
+68. Lexi Stott
