@@ -1,17 +1,31 @@
 1. Arvind Krishna
-<<<<<<< HEAD
-=======
+
 7. Daniel Xu
 10. Adi Madhu
 13. Jimmy Zhang
 58. David Wu
 5. Hayden Sterling
+27. Gracie Kwon
 35. Allen You
 40. Aidan Boleyn-Fitzgerald
+60. Kadence Chang
+
+
+54. Megan Lin
+
+150. Last person
+
+46. Emma Akinde
+
+
 54. Megan Lin
 61. Kay Alao
+
+29. Benjamin Lin
+
 63. Mark O'Brien
->>>>>>> parent of 19e0524 (Merge branch 'main' of https://github.com/arvindkrishna87/STAT201_WI2024)
+
+
 6. Chester Wonchoba
 13. Jimmy Zhang
 34. Jacob Siegel
@@ -20,17 +34,21 @@
 59. Shreya Saini
 150. Last person
 46. Emma Akinde
+
+
+
+64. Chiemela Onuoha
+
 42. Jillian Moore
 69. Lillian Valk
 25. Jack McNiel
 78. Jude Mirghani
 67. Callie Berthold
 63. Mark O'Brien
-<<<<<<< HEAD
+
+68. Lexi Stott
+36. Kenneth Cao
 
 
 23. Giulia Cigolot
-=======
-68. Lexi Stott
-21. Irene Martinez
->>>>>>> parent of 19e0524 (Merge branch 'main' of https://github.com/arvindkrishna87/STAT201_WI2024)
+
