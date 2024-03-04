@@ -19,6 +19,8 @@
 
 54. Megan Lin
 
+30. Charles Frady
+
 150. Last person
 
 46. Emma Akinde
@@ -26,13 +28,11 @@
 
 54. Megan Lin
 61. Kay Alao
-
-29. Benjamin Lin
-
 63. Mark O'Brien
 
 
 23563717867133d24a8feeffb12cb1e163b44d2a
+8bd646b5f8f287f93fcdc3aed8db6a8bb08c4c71
 6. Chester Wonchoba
 13. Jimmy Zhang
 34. Jacob Siegel
@@ -65,3 +65,5 @@
 23. Giulia Cigolot
 c9cf2f22208dfe353e7d5d670475081991436edb
 23563717867133d24a8feeffb12cb1e163b44d2a
+23. Giulia Cigolot
+ 8bd646b5f8f287f93fcdc3aed8db6a8bb08c4c71
