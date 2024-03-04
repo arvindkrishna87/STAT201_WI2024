@@ -8,10 +8,14 @@
 33. Ellis Zuckerman
 
 40. Aidan Boleyn-Fitzgerald
+<<<<<<< HEAD
+42. Jillian Moore
+=======
 
 51. Jessica Chen
 
 
+>>>>>>> ed1fb5c029b49a9a946bb5a929d843751257b495
 54. Megan Lin
 
 54. Megan Lin
@@ -20,6 +24,7 @@
 
 61. Kay Alao
 63. Mark O'Brien
+65. Ashley Xue
 68. Lexi Stott
 150. Last person
 46. Emma Akinde
