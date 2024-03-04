@@ -4,12 +4,18 @@
 13. Jimmy Zhang
 58. David Wu
 5. Hayden Sterling
+27. Gracie Kwon
 35. Allen You
 40. Aidan Boleyn-Fitzgerald
 54. Megan Lin
 61. Kay Alao
+
+29. Benjamin Lin
+
 63. Mark O'Brien
+
 6. Chester Wonchoba
+12. Alexander Lueras
 13. Jimmy Zhang
 40. Aidan Boleyn-Fitzgerald
 51. Jessica Chen
@@ -23,6 +29,7 @@
 25. Jack McNiel
 63. Mark O'Brien
 65. Ashley Xue
+66. Mia El-Yafi 
 85. Mengpang Xing
 69. Lillian Valk
 69. Lillian Valk
@@ -30,3 +37,4 @@
 67. Callie Berthold
 63. Mark O'Brien
 68. Lexi Stott
+36. Kenneth Cao
