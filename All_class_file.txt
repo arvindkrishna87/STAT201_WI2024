@@ -18,6 +18,7 @@ c84306dad7210faa47df9e8e2d15c8869dc0c13a
 517e4dcb02bf3885a4a01c1e4010e7456f8baf74
 58. David Wu
 5. Hayden Sterling
+34. Jacob Siegel
 35. Allen You
 40. Aidan Boleyn-Fitzgerald
 51. Jessica Chen
