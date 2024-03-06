@@ -1,4 +1,12 @@
 1. Arvind Krishna
+<<<<<<< HEAD
+<<<<<<< HEAD
+2. Katarina Andrade
+=======
+
+>>>>>>> a9e7da4da990b7ed105903ec913ac17429330cb4
+=======
+>>>>>>> d0b732f5136becbcc0a286cb6c5bcafd15bfc46f
 7. Daniel Xu
 13. Jimmy Zhang
 58. David Wu
@@ -6,8 +14,26 @@
 35. Allen You
 
 40. Aidan Boleyn-Fitzgerald
+<<<<<<< HEAD
+60. Kadence Chang
 
+51. Jessica Chen
 54. Megan Lin
+<<<<<<< HEAD
+=======
+
+30. Charles Frady
+
+150. Last person
+
+46. Emma Akinde
+
+
+=======
+
+>>>>>>> 6a47f1307f92f92b1255491a979ac3e429000308
+54. Megan Lin
+>>>>>>> 24b06e927d55107c6cb24de882538613f060ccb2
 <<<<<<< HEAD
 56. Ivy Mills
 61. Kay Alao
@@ -23,11 +49,15 @@
 42. Jillian Moore
 69. Lillian Valk
 25. Jack McNiel
-
+65. Ashley Xue
 67. Callie Berthold
 63. Mark O'Brien
 38. Jenna Jazayerli
+<<<<<<< HEAD
 22. Jesslyn Im
+=======
+41. Hyouji Joo
+>>>>>>> 24b06e927d55107c6cb24de882538613f060ccb2
 
 23. Giulia Cigolot
 >>>>>>> 5ac5a8b6407e078012ab74fb0a91685da470dad3
