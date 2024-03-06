@@ -1,48 +1,47 @@
 1. Arvind Krishna
+<<<<<<< HEAD
+13. Jimmy Zhang
+  
+=======
 7. Daniel Xu
+10. Adi Madhu
 13. Jimmy Zhang
 58. David Wu
-
+5. Hayden Sterling
 35. Allen You
-
 40. Aidan Boleyn-Fitzgerald
-<<<<<<< HEAD
-60. Kadence Chang
+54. Megan Lin
+61. Kay Alao
 
+29. Benjamin Lin
+
+63. Mark O'Brien
+
+6. Chester Wonchoba
+12. Alexander Lueras
+13. Jimmy Zhang
+40. Aidan Boleyn-Fitzgerald
 51. Jessica Chen
 54. Megan Lin
-
-30. Charles Frady
-
-150. Last person
-
-46. Emma Akinde
-
-
-=======
-
->>>>>>> 6a47f1307f92f92b1255491a979ac3e429000308
-54. Megan Lin
-<<<<<<< HEAD
-56. Ivy Mills
-61. Kay Alao
-63. Mark O'Brien
-=======
 59. Shreya Saini
->>>>>>> 5ac5a8b6407e078012ab74fb0a91685da470dad3
 150. Last person
-32. Jonah Rosenberg
 46. Emma Akinde
-<<<<<<< HEAD
-=======
 42. Jillian Moore
+67. Callie Berthold
+68. Lexi Stott
+25. Jack McNiel
+63. Mark O'Brien
+65. Ashley Xue
+66. Mia El-Yafi 
+85. Mengpang Xing
+69. Lillian Valk
 69. Lillian Valk
 25. Jack McNiel
-
 67. Callie Berthold
 63. Mark O'Brien
-38. Jenna Jazayerli
-41. Hyouji Joo
+68. Lexi Stott
+36. Kenneth Cao
+11. Maya Mukherjee
+93. Daigo Moriwake
 
-23. Giulia Cigolot
->>>>>>> 5ac5a8b6407e078012ab74fb0a91685da470dad3
+>>>>>>> 3dceb4d65025e3fdced5198ce2bc1eb10834c953
