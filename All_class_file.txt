@@ -19,6 +19,8 @@
 
 51. Jessica Chen
 54. Megan Lin
+<<<<<<< HEAD
+=======
 
 30. Charles Frady
 
@@ -31,6 +33,7 @@
 
 >>>>>>> 6a47f1307f92f92b1255491a979ac3e429000308
 54. Megan Lin
+>>>>>>> 24b06e927d55107c6cb24de882538613f060ccb2
 <<<<<<< HEAD
 56. Ivy Mills
 61. Kay Alao
@@ -50,7 +53,11 @@
 67. Callie Berthold
 63. Mark O'Brien
 38. Jenna Jazayerli
+<<<<<<< HEAD
+22. Jesslyn Im
+=======
 41. Hyouji Joo
+>>>>>>> 24b06e927d55107c6cb24de882538613f060ccb2
 
 23. Giulia Cigolot
 >>>>>>> 5ac5a8b6407e078012ab74fb0a91685da470dad3
