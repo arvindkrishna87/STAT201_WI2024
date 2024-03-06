@@ -1,10 +1,15 @@
 1. Arvind Krishna
 
 
+
 2. Katarina Andrade
 
 13. Jimmy Zhang
   
+
+
+13. Jimmy Zhang
+2. Katarina Andrade
 
 7. Daniel Xu
 10. Adi Madhu
@@ -12,6 +17,7 @@
 58. David Wu
 5. Hayden Sterling
 35. Allen You
+
 
 49. Hye-won Yoo
 40. Aidan Boleyn-Fitzgerald
@@ -23,7 +29,15 @@
 61. Kay Alao
 
 
+
+40. Aidan Boleyn-Fitzgerald
+54. Megan Lin
+61. Kay Alao
+63. Mark O'Brien
+
 29. Benjamin Lin
+
+90. Adi Rosenstock
 
 63. Mark O'Brien
 
@@ -33,6 +47,7 @@
 40. Aidan Boleyn-Fitzgerald
 51. Jessica Chen
 54. Megan Lin
+
 
 
 
@@ -49,6 +64,7 @@
 56. Ivy Mills
 61. Kay Alao
 63. Mark O'Brien
+
 
 59. Shreya Saini
 
@@ -68,6 +84,7 @@
 69. Lillian Valk
 69. Lillian Valk
 25. Jack McNiel
+
 
 65. Ashley Xue
 67. Callie Berthold
@@ -89,10 +106,20 @@
 75. Jezel Martinez
 
 
+
 67. Callie Berthold
 63. Mark O'Brien
 68. Lexi Stott
 36. Kenneth Cao
 11. Maya Mukherjee
 93. Daigo Moriwake
+
+41. Hyouji Joo
+52. Angela Zhang
+15. Anna Zhang
+94. Anna Alava
+94. Supraja Sudarsan
+25. Jack McNiel
+68. Lexi Stott
+73. William Stark
 
